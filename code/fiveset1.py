@@ -1,6 +1,6 @@
-x=int(input())
-y=int(input())
-z=int(input())
+x=input()
+y=input()
+z=input()
 if y<=x and z<=x:
     print(x)
 elif x<=y and z<=y:
